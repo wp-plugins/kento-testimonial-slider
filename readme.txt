@@ -12,36 +12,36 @@ Slide Your Unlimited Testimonial or Clients Feedback By using Shortcode Anywhere
 
 
 == Description ==
-This plugin will add unlimited slide of testimonials fade in out via shortcode with author image in page or post or sidebar or .php files.
+This plugin will add unlimited slide of testimonials fade in out via shortcode with author image in page or post or sidebar or .php files. <br />
 
-Plugin Features
-* Shortcode System.
-* Wordpress Custom Post Enabled.
-* Post Thumbnail.
-* TinyMCE Button added for generating Shortcode.
-* Slide Unlimited Testimonial.
-* 100% Full Width fit to any screen size.
+Plugin Features<br />
+* Shortcode System.<br />
+* Wordpress Custom Post Enabled.<br />
+* Post Thumbnail.<br />
+* TinyMCE Button added for generating Shortcode.<br />
+* Slide Unlimited Testimonial.<br />
+* 100% Full Width fit to any screen size.<br />
 
-Live Preview: http://kentothemes.com/demo/plugins/kento-testimonial-slider/
+Live Preview: http://kentothemes.com/demo/plugins/kento-testimonial-slider/<br />
 
 == Installation ==
 
-Via WordPress -
-1. Install as a regular WordPress plugin.
-2. The plugin supports custom post. After installing you can see a menu called Testimonial. There, you can add testimonials. After adding Testimonials you can use shourcode`[KentoTestimonial]` 
-3. you could use for .php file any where `<?php echo do_shortcode('[KentoTestimonial]'); ?>`
+Via WordPress -<br />
+1. Install as a regular WordPress plugin.<br />
+2. The plugin supports custom post. After installing you can see a menu called Testimonial. There, you can add testimonials. <br />After adding Testimonials you can use shourcode`[KentoTestimonial]` 
+3. you could use for .php file any where `<?php echo do_shortcode('[KentoTestimonial]'); ?>`<br />
 
 
 
 Via FTP -
-1. Upload .zip file to your WordPress plugin directory and unzip it.
-2. Go your Pluings setting via WordPress Dashboard and activate it.
-3. Then Publish some post on Testimonials post type with thumbnail.
-4. Post Title will display as testimonial Name.
-5. and use this shortcode anywhere to display  `[KentoTestimonial]`
-6. you could use for .php file any where `<?php echo do_shortcode('[KentoTestimonial]'); ?>`
+1. Upload .zip file to your WordPress plugin directory and unzip it.<br />
+2. Go your Pluings setting via WordPress Dashboard and activate it.<br />
+3. Then Publish some post on Testimonials post type with thumbnail.<br />
+4. Post Title will display as testimonial Name.<br />
+5. and use this shortcode anywhere to display  `[KentoTestimonial]`<br />
+6. you could use for .php file any where `<?php echo do_shortcode('[KentoTestimonial]'); ?>`<br />
 
-== Frequently asked questions ==
+== Frequently asked questions ==<br />
  
  = How to display Clients Image ? =
 After activate plugin please see the menu "Testimonial" on left sidebar of your wordpress dashboard and Add New Testimonial to display client image on slider please add "featured Image" this image will display as clients image on sliders
