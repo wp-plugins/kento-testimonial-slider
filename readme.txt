@@ -1,5 +1,5 @@
 === Kento Testimonial Slider ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link:
 Tags: Quote, Testimonial Rotator, Quote Rotator, Testimonial Slider, Quote Slider
 Requires at least: 3.5
